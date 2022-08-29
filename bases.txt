@@ -1,0 +1,28 @@
+El java scrip siempre al final 
+Selectores 
+	Clase-Mediante el atributo class  y con .className en css
+	ID-Mediante el atributo id y con #idName en css
+	Tipo-Igual que la etiqueta
+	Media query - @media(max-width xxxpx)
+
+https://cssreference.io/
+
+
+
+Visualizacion 
+	Inline - ocupan el espacio correspondiente a sus elementos internos
+	Block - Ocupan todo el largo posisble
+	inline-block igual que inline pero se puede modificar mediante css
+
+
+FLEX
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Colores
+https://colorhunt.co/
+
+Fuentes
+https://fonts.google.com/
+
+CSS-GRID
+https://css-tricks.com/snippets/css/complete-guide-grid/

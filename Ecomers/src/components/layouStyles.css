@@ -1,0 +1,42 @@
+#topLayoud{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 30px;
+}
+
+#container-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: center;
+    padding: 30px;
+    gap: 20px;
+}
+
+#container-list div{
+    background-color: #CDF0EA;
+    border-radius: 15px;
+}
+
+#container-list button{
+    background-color: #CDF0EA;
+}
+
+#box-space{    
+    width: 400px;
+}
+
+#link{    
+    background-color: white;
+}
+
+#link button{
+    border: 1px solid gray; 
+    background-color: white;
+    vertical-align: middle;
+}
+
+#icono{
+    margin: 20px;
+}

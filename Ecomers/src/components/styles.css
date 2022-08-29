@@ -1,0 +1,17 @@
+.container{    
+    display:inline-block;
+    text-align:center;
+    padding: 10px;
+    margin: 10px;
+    background-color: #CDF0EA;
+    border-radius: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#marca{
+    font-size: 12px;
+}
+
+img{
+    padding: 10px;
+}

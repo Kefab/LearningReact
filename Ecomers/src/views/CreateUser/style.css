@@ -1,0 +1,16 @@
+#main-c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 15px;
+}
+
+#main-c div,
+h1 {
+  margin-right: 40%;
+}
+
+#main-c button, h2 {
+  margin-right: 45%;
+}
